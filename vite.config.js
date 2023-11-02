@@ -6,7 +6,7 @@ import vueJsx from "@vitejs/plugin-vue-jsx";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/calculator-vue-adfi/",
+  base: "/calculator-vue-github-adfi/",
   plugins: [vue(), vueJsx()],
   resolve: {
     alias: {
